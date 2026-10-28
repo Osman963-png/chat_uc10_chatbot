@@ -1,4 +1,4 @@
-
+README.md
 # Instruções para executar o projeto de Chat com IA — UC10
 
 Este projeto utiliza **Streamlit** para a interface, **Groq** para respostas de IA, **ChromaDB** e **Sentence Transformers** para RAG (consulta a documentos), **SQLite** para histórico e **MySQL/MariaDB** para consultas ao banco de dados.
